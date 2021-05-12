@@ -1,0 +1,25 @@
+title: Matt Glen
+email: mwglen@ncsu.edu
+description: >-
+    Matthew Glen is ...
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://mattglen.dev"
+twitter_username: mwglen
+github_username:  mwglen
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
