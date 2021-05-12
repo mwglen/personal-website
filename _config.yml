@@ -4,22 +4,24 @@ description: >-
     Matthew Glen is ...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mattglen.dev"
-twitter_username: mwglen
 github_username:  mwglen
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+remote_theme: jekyll/minima
+minima:
+    skin: dark
+    social_links:
+        github: mwglen
+header_pages:
+    - projects.md
+    - about.md
 
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+plugins:
+    - jekyll-feed
+
+exclude:
+   - Gemfile
+   - Gemfile.lock
+   - flake.nix
+   - flake.lock
+
