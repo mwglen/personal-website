@@ -1,10 +1,10 @@
 title: Matt Glen
 email: mwglen@ncsu.edu
 description: >-
-    Matthew Glen is ...
-baseurl: "" # the subpath of your site, e.g. /blog
+    This website is still in development
+baseurl: ""
 url: "https://mattglen.dev"
-github_username:  mwglen
+github_username: mwglen
 
 # Build settings
 remote_theme: jekyll/minima
@@ -12,9 +12,12 @@ minima:
     skin: dark
     social_links:
         github: mwglen
+        linkedin: matthew-w-glen
 header_pages:
+    - education.md
+    - professional-experience.md
     - projects.md
-    - about.md
+    - skills.md
 
 plugins:
     - jekyll-feed
