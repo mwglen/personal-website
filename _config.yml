@@ -14,9 +14,10 @@ minima:
         github: mwglen
         linkedin: matthew-w-glen
 header_pages:
+    - projects.md
+    - homework.md
     - education.md
     - professional-experience.md
-    - projects.md
     - skills.md
 
 plugins:
