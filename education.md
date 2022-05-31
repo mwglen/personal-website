@@ -5,8 +5,9 @@ permalink: /education/
 ---
 <hr>
 **North Carolina State University, Raleigh NC**  
-B.S., Computer and Electrical Engineering Dual Degree  
-Major GPA: 3.893  
+B.S. Computer Engineering  
+B.S. Electrical Engineering  
+Final GPA: 3.80  
 Graduation Date: May 2022
 
 <hr>

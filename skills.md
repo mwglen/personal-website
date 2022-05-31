@@ -4,19 +4,33 @@ title: Skills
 permalink: /skills/
 ---
 <hr>
+**Engineering Skills**  
+Proficient in:
+- ASIC/FPGA Design
+- ASIC Verification
+- Computer Aided Design (Fusion360)
+- Embedded Systems
+
+Familiar with:
+- IC Fabrication
+- Signal Processing
+- Photonics/Optics
+- PCB Design
+
+<hr>
 **Programming Languages**  
 Proficient in:
 - Python
 - C/C++
 - Rust
-- Verilog
+- Verilog/SystemVerilog
+- Bash/ZSH
 
 Familiar with:
-- Haskell
-- Lisp/Scheme
-- Forth
-- Prolog
 - x86 Assembly
+- Lisp/Scheme
+- CMake/Make
+- Haskell
 - Javascript
 
 <hr>
@@ -25,27 +39,13 @@ Proficient in:
 - Git/Github
 - Docker
 - GNU/Linux
-- VirtualBox
-- Node.js
-- Nix
+- Matlab
+- Emacs/Vim
 
 Familiar with:
-- AWS
 - Kubernetes
-- Vulkan/OpenGL
 - CUDA
-- React/Angular
-- MySQL/Postgresql
-
-<hr>
-**Engineering Skills**  
-Proficient in:
-- Matlab and Simulink
-- SPICE Circuit Simulation
-
-Familiar with:
-- Computer Aided Design
-- Finite Element Analysis
-- FPGAs and Microprocessors
-- Signal Processing
+- Simulink
+- AWS
+- Vulkan/OpenGL
 
