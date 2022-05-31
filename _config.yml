@@ -1,7 +1,5 @@
 title: Matt Glen
 email: mwglen@ncsu.edu
-description: >-
-    This website is still in development
 baseurl: ""
 url: "https://mattglen.dev"
 github_username: mwglen
@@ -15,9 +13,8 @@ minima:
         linkedin: matthew-w-glen
 header_pages:
     - projects.md
-    - homework.md
     - education.md
-    - professional-experience.md
+    - experience.md
     - skills.md
 
 plugins:

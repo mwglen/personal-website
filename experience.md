@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Professional Experience
-permalink: /professional-experience/
+title: Experience
+permalink: /experience/
 ---
 <hr>
 **Calculus, Physics, and Chemistry Tutor**  
